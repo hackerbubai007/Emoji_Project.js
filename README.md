@@ -2,6 +2,7 @@
 
 ## Emoji Application
 # Hosted Link: 
+https://hackerbubai007.github.io/Emoji_Project.js/index.html
 
 ### Step 1: Create a New HTML File
 
